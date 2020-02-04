@@ -55,7 +55,7 @@
     "toggle": "^1.0.1",
     "viser-react": "^2.4.6"
   },
-  "homepage": "https://github.com/ravimokka/sqd.git",
+  "homepage": "https://github.com/ravimokka/sqd_frontend.git",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
